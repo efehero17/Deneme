@@ -1,2 +1,1 @@
 Debug.Log("I Always Come Back")
-Debug.Log("Now İt's My Turn")
